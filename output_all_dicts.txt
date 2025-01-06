@@ -1,0 +1,3417 @@
+Category: V. CV
+Word: ఒక
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: అని
+Orthographic Neighbors (5) (dict: dicts/telugu.lemma.txt.dict):
+అనా
+అనీ
+అనె
+అనే
+అనో
+Orthographic Neighbors (5) (dict: dicts/telugu.lex.txt.dict):
+అనా
+అనీ
+అనె
+అనే
+అనో
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/test.txt.dict):
+అనే
+Orthographic Neighbors (3) (dict: dicts/dictionary.sqlite.dict):
+అనా
+అనీ
+అనే
+
+______________________________
+
+Word: ఇది
+Orthographic Neighbors (5) (dict: dicts/telugu.lemma.txt.dict):
+ఇదా
+ఇదీ
+ఇదె
+ఇదే
+ఇదో
+Orthographic Neighbors (5) (dict: dicts/telugu.lex.txt.dict):
+ఇదా
+ఇదీ
+ఇదె
+ఇదే
+ఇదో
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+ఇదీ
+ఇదే
+Orthographic Neighbors (1) (dict: dicts/test.txt.dict):
+ఇదే
+Orthographic Neighbors (3) (dict: dicts/dictionary.sqlite.dict):
+ఇదా
+ఇదే
+ఇదో
+
+______________________________
+
+Word: అది
+Orthographic Neighbors (6) (dict: dicts/telugu.lemma.txt.dict):
+అదా
+అదీ
+అదె
+అదే
+అదొ
+అదో
+Orthographic Neighbors (6) (dict: dicts/telugu.lex.txt.dict):
+అదా
+అదీ
+అదె
+అదే
+అదొ
+అదో
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+అదె
+అదే
+Orthographic Neighbors (1) (dict: dicts/test.txt.dict):
+అదే
+Orthographic Neighbors (4) (dict: dicts/dictionary.sqlite.dict):
+అదా
+అదీ
+అదే
+అదో
+
+______________________________
+
+Word: అనే
+Orthographic Neighbors (5) (dict: dicts/telugu.lemma.txt.dict):
+అనా
+అని
+అనీ
+అనె
+అనో
+Orthographic Neighbors (5) (dict: dicts/telugu.lex.txt.dict):
+అనా
+అని
+అనీ
+అనె
+అనో
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+అని
+Orthographic Neighbors (1) (dict: dicts/test.txt.dict):
+అని
+Orthographic Neighbors (3) (dict: dicts/dictionary.sqlite.dict):
+అనా
+అని
+అనీ
+
+______________________________
+
+Word: అవి
+Orthographic Neighbors (2) (dict: dicts/telugu.lemma.txt.dict):
+అవీ
+అవే
+Orthographic Neighbors (2) (dict: dicts/telugu.lex.txt.dict):
+అవీ
+అవే
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+అవే
+
+______________________________
+
+Word: ఇవి
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+ఇవా
+ఇవీ
+ఇవె
+ఇవే
+Orthographic Neighbors (4) (dict: dicts/telugu.lex.txt.dict):
+ఇవా
+ఇవీ
+ఇవె
+ఇవే
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+ఇవీ
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: అను
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఒకే
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+ఒకా
+ఒకె
+ఒకొ
+ఒకో
+Orthographic Neighbors (4) (dict: dicts/telugu.lex.txt.dict):
+ఒకా
+ఒకె
+ఒకొ
+ఒకో
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+ఒకొ
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఆమె
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+ఆమి
+ఆమే
+ఆమో
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+ఆమి
+ఆమే
+ఆమో
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+ఆమి
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+ఆమే
+
+______________________________
+
+Word: ఇలా
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+ఇలి
+Orthographic Neighbors (1) (dict: dicts/telugu.lex.txt.dict):
+ఇలి
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+ఇలి
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: అదే
+Orthographic Neighbors (6) (dict: dicts/telugu.lemma.txt.dict):
+అదా
+అది
+అదీ
+అదె
+అదొ
+అదో
+Orthographic Neighbors (6) (dict: dicts/telugu.lex.txt.dict):
+అదా
+అది
+అదీ
+అదె
+అదొ
+అదో
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+అది
+అదె
+Orthographic Neighbors (1) (dict: dicts/test.txt.dict):
+అది
+Orthographic Neighbors (4) (dict: dicts/dictionary.sqlite.dict):
+అదా
+అది
+అదీ
+అదో
+
+______________________________
+
+Word: అలా
+Orthographic Neighbors (5) (dict: dicts/telugu.lemma.txt.dict):
+అలి
+అలీ
+అలె
+అలే
+అలో
+Orthographic Neighbors (5) (dict: dicts/telugu.lex.txt.dict):
+అలి
+అలీ
+అలె
+అలే
+అలో
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఎలా
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+ఎలే
+Orthographic Neighbors (1) (dict: dicts/telugu.lex.txt.dict):
+ఎలే
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఏదో
+Orthographic Neighbors (5) (dict: dicts/telugu.lemma.txt.dict):
+ఏదా
+ఏది
+ఏదీ
+ఏదే
+ఏదొ
+Orthographic Neighbors (5) (dict: dicts/telugu.lex.txt.dict):
+ఏదా
+ఏది
+ఏదీ
+ఏదే
+ఏదొ
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+ఏది
+ఏదీ
+Orthographic Neighbors (1) (dict: dicts/test.txt.dict):
+ఏది
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+ఏది
+
+______________________________
+
+Word: అతి
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+అతే
+Orthographic Neighbors (1) (dict: dicts/telugu.lex.txt.dict):
+అతే
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఆయా
+Orthographic Neighbors (2) (dict: dicts/telugu.lemma.txt.dict):
+ఆయి
+ఆయీ
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+ఆయి
+ఆయీ
+ఆయె
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఇక
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఇదే
+Orthographic Neighbors (5) (dict: dicts/telugu.lemma.txt.dict):
+ఇదా
+ఇది
+ఇదీ
+ఇదె
+ఇదో
+Orthographic Neighbors (5) (dict: dicts/telugu.lex.txt.dict):
+ఇదా
+ఇది
+ఇదీ
+ఇదె
+ఇదో
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+ఇది
+ఇదీ
+Orthographic Neighbors (1) (dict: dicts/test.txt.dict):
+ఇది
+Orthographic Neighbors (3) (dict: dicts/dictionary.sqlite.dict):
+ఇదా
+ఇది
+ఇదో
+
+______________________________
+
+Word: ఏమి
+Orthographic Neighbors (6) (dict: dicts/telugu.lemma.txt.dict):
+ఏమా
+ఏమీ
+ఏమె
+ఏమే
+ఏమొ
+ఏమో
+Orthographic Neighbors (6) (dict: dicts/telugu.lex.txt.dict):
+ఏమా
+ఏమీ
+ఏమె
+ఏమే
+ఏమొ
+ఏమో
+Orthographic Neighbors (3) (dict: dicts/sortdict.txt.dict):
+ఏమీ
+ఏమె
+ఏమే
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+ఏమో
+
+______________________________
+
+Word: ఆరు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఏది
+Orthographic Neighbors (5) (dict: dicts/telugu.lemma.txt.dict):
+ఏదా
+ఏదీ
+ఏదే
+ఏదొ
+ఏదో
+Orthographic Neighbors (5) (dict: dicts/telugu.lex.txt.dict):
+ఏదా
+ఏదీ
+ఏదే
+ఏదొ
+ఏదో
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+ఏదీ
+ఏదో
+Orthographic Neighbors (1) (dict: dicts/test.txt.dict):
+ఏదో
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+ఏదో
+
+______________________________
+
+Word: అటు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఆట
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఐదు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Category: V. CCV / V. C1C2V
+Word: ఎన్ని
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+ఎన్నీ
+ఎన్నే
+ఎన్నొ
+ఎన్నో
+Orthographic Neighbors (4) (dict: dicts/telugu.lex.txt.dict):
+ఎన్నీ
+ఎన్నే
+ఎన్నొ
+ఎన్నో
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: అన్నీ
+Orthographic Neighbors (5) (dict: dicts/telugu.lemma.txt.dict):
+అన్నా
+అన్ని
+అన్నె
+అన్నే
+అన్నో
+Orthographic Neighbors (5) (dict: dicts/telugu.lex.txt.dict):
+అన్నా
+అన్ని
+అన్నె
+అన్నే
+అన్నో
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+అన్నా
+అన్ని
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (3) (dict: dicts/dictionary.sqlite.dict):
+అన్నా
+అన్ని
+అన్నే
+
+______________________________
+
+Word: అమ్మ
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఇల్లు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఇచ్చి
+Orthographic Neighbors (5) (dict: dicts/telugu.lemma.txt.dict):
+ఇచ్చా
+ఇచ్చీ
+ఇచ్చె
+ఇచ్చే
+ఇచ్చో
+Orthographic Neighbors (5) (dict: dicts/telugu.lex.txt.dict):
+ఇచ్చా
+ఇచ్చీ
+ఇచ్చె
+ఇచ్చే
+ఇచ్చో
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+ఇచ్చా
+ఇచ్చే
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+ఇచ్చే
+
+______________________________
+
+Word: ఒక్క
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఇట్టి
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+ఇట్టా
+ఇట్టె
+ఇట్టే
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+ఇట్టా
+ఇట్టె
+ఇట్టే
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+ఇట్టీ
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఎత్తు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: అంటే
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+అంటా
+అంటి
+అంటీ
+అంటె
+Orthographic Neighbors (4) (dict: dicts/telugu.lex.txt.dict):
+అంటా
+అంటి
+అంటీ
+అంటె
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+అంటి
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (2) (dict: dicts/dictionary.sqlite.dict):
+అంటి
+అంటె
+
+______________________________
+
+Word: ఉంది
+Orthographic Neighbors (5) (dict: dicts/telugu.lemma.txt.dict):
+ఉందా
+ఉందీ
+ఉందే
+ఉందొ
+ఉందో
+Orthographic Neighbors (5) (dict: dicts/telugu.lex.txt.dict):
+ఉందా
+ఉందీ
+ఉందే
+ఉందొ
+ఉందో
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఎంత
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఇంకా
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+ఇంకి
+ఇంకే
+ఇంకొ
+ఇంకో
+Orthographic Neighbors (4) (dict: dicts/telugu.lex.txt.dict):
+ఇంకి
+ఇంకే
+ఇంకొ
+ఇంకో
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/test.txt.dict):
+ఇంకో
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+ఇంకి
+
+______________________________
+
+Word: ఏంటో
+Orthographic Neighbors (5) (dict: dicts/telugu.lemma.txt.dict):
+ఏంటా
+ఏంటి
+ఏంటీ
+ఏంటొ
+ఏంటౌ
+Orthographic Neighbors (5) (dict: dicts/telugu.lex.txt.dict):
+ఏంటా
+ఏంటి
+ఏంటీ
+ఏంటొ
+ఏంటౌ
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: అంత
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఇంత
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఉంటే
+Orthographic Neighbors (2) (dict: dicts/telugu.lemma.txt.dict):
+ఉంటా
+ఉంటె
+Orthographic Neighbors (2) (dict: dicts/telugu.lex.txt.dict):
+ఉంటా
+ఉంటె
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: అంటూ
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఇట్లు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: అందు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఇంకో
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+ఇంకా
+ఇంకి
+ఇంకే
+ఇంకొ
+Orthographic Neighbors (4) (dict: dicts/telugu.lex.txt.dict):
+ఇంకా
+ఇంకి
+ఇంకే
+ఇంకొ
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+ఇంకా
+Orthographic Neighbors (1) (dict: dicts/test.txt.dict):
+ఇంకా
+Orthographic Neighbors (2) (dict: dicts/dictionary.sqlite.dict):
+ఇంకా
+ఇంకి
+
+______________________________
+
+Word: ఇంటి
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+ఇంటా
+ఇంటీ
+ఇంటో
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+ఇంటా
+ఇంటీ
+ఇంటో
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఇంట్లో
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+ఇంట్లొ
+Orthographic Neighbors (1) (dict: dicts/telugu.lex.txt.dict):
+ఇంట్లొ
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఇట్లు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: అంటూ
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఉండి
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+ఉండా
+ఉండీ
+ఉండె
+ఉండే
+Orthographic Neighbors (4) (dict: dicts/telugu.lex.txt.dict):
+ఉండా
+ఉండీ
+ఉండె
+ఉండే
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+ఉండే
+
+______________________________
+
+Category: CVN.CV / CV. CVm
+Word: రెండు
+Orthographic Neighbors (2) (dict: dicts/telugu.lemma.txt.dict):
+రొండు
+రౌండు
+Orthographic Neighbors (2) (dict: dicts/telugu.lex.txt.dict):
+రొండు
+రౌండు
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+రొండు
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: నుంచి
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+నుంచీ
+నుంచే
+నుంచో
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+నుంచీ
+నుంచే
+నుంచో
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ముందు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: కొంత
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+కాంత
+కెంత
+కోంత
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+కాంత
+కెంత
+కోంత
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+కాంత
+కోంత
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (2) (dict: dicts/dictionary.sqlite.dict):
+కాంత
+కౌంత
+
+______________________________
+
+Word: వంట
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: మంది
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+మందీ
+మందె
+మందే
+మందో
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+మందీ
+మందే
+మందో
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: కింది
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+కొంది
+కిందా
+కిందే
+కిందో
+Orthographic Neighbors (4) (dict: dicts/telugu.lex.txt.dict):
+కొంది
+కిందా
+కిందే
+కిందో
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: కాంతి
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+కొంతి
+కాంతా
+కాంతీ
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+కొంతి
+కాంతా
+కాంతీ
+Orthographic Neighbors (3) (dict: dicts/sortdict.txt.dict):
+కోంతి
+కౌంతి
+కాంతా
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (2) (dict: dicts/dictionary.sqlite.dict):
+కొంతి
+కాంతా
+
+______________________________
+
+Word: కంటే
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+కంటా
+కంటి
+కంటె
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+కంటా
+కంటి
+కంటె
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+కంటె
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (2) (dict: dicts/dictionary.sqlite.dict):
+కంటి
+కంటె
+
+______________________________
+
+Word: రెండో
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+రెండా
+రెండి
+రెండే
+రెండొ
+Orthographic Neighbors (4) (dict: dicts/telugu.lex.txt.dict):
+రెండా
+రెండి
+రెండే
+రెండొ
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+రెండే
+
+______________________________
+
+Word: రంగు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: చెంది
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+చింది
+చేంది
+చెందే
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+చింది
+చేంది
+చెందే
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+చెందే
+
+______________________________
+
+Word: బంతి
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+బంతా
+Orthographic Neighbors (1) (dict: dicts/telugu.lex.txt.dict):
+బంతా
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: శాంతి
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+శాంతా
+శాంతీ
+శాంతే
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+శాంతా
+శాంతీ
+శాంతే
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ముందే
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+ముందా
+ముంది
+ముందో
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+ముందా
+ముంది
+ముందో
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+ముందో
+
+______________________________
+
+Word: హిందీ
+Orthographic Neighbors (2) (dict: dicts/telugu.lemma.txt.dict):
+హింది
+హిందే
+Orthographic Neighbors (2) (dict: dicts/telugu.lex.txt.dict):
+హింది
+హిందే
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: గుండె
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+గుండా
+గుండి
+గుండే
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+గుండా
+గుండి
+గుండే
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+గుండా
+గుండీ
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (3) (dict: dicts/dictionary.sqlite.dict):
+గుండా
+గుండి
+గుండీ
+
+______________________________
+
+Word: పంట
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: మందు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: కాలం
+Orthographic Neighbors (2) (dict: dicts/telugu.lemma.txt.dict):
+కీలం
+కోలం
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: భాగం
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+భోగం
+Orthographic Neighbors (1) (dict: dicts/telugu.lex.txt.dict):
+భోగం
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: శతం
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: పటం
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: దూరం
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: పాపం
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Category: CV.C1C1V
+Word: పెద్ద
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+పేద్ద
+Orthographic Neighbors (1) (dict: dicts/telugu.lex.txt.dict):
+పేద్ద
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: యొక్క
+Orthographic Neighbors (2) (dict: dicts/telugu.lemma.txt.dict):
+యెక్క
+యోక్క
+Orthographic Neighbors (2) (dict: dicts/telugu.lex.txt.dict):
+యెక్క
+యోక్క
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+యెక్క
+
+______________________________
+
+Word: చిన్న
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+చెన్న
+Orthographic Neighbors (1) (dict: dicts/telugu.lex.txt.dict):
+చెన్న
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+చెన్న
+
+______________________________
+
+Word: వచ్చి
+Orthographic Neighbors (5) (dict: dicts/telugu.lemma.txt.dict):
+వచ్చా
+వచ్చీ
+వచ్చె
+వచ్చే
+వచ్చో
+Orthographic Neighbors (5) (dict: dicts/telugu.lex.txt.dict):
+వచ్చా
+వచ్చీ
+వచ్చె
+వచ్చే
+వచ్చో
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+వచ్చె
+వచ్చే
+Orthographic Neighbors (1) (dict: dicts/test.txt.dict):
+వచ్చే
+Orthographic Neighbors (2) (dict: dicts/dictionary.sqlite.dict):
+వచ్చీ
+వచ్చే
+
+______________________________
+
+Word: బట్టి
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+బట్టా
+బట్టీ
+బట్టే
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+బట్టా
+బట్టీ
+బట్టే
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+బట్టె
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+బట్టే
+
+______________________________
+
+Word: నన్ను
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: కొత్త
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: దాన్ని
+Orthographic Neighbors (5) (dict: dicts/telugu.lemma.txt.dict):
+దిన్ని
+దాన్నీ
+దాన్నె
+దాన్నే
+దాన్నో
+Orthographic Neighbors (7) (dict: dicts/telugu.lex.txt.dict):
+దిన్ని
+దీన్ని
+దేన్ని
+దాన్నీ
+దాన్నె
+దాన్నే
+దాన్నో
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (4) (dict: dicts/dictionary.sqlite.dict):
+దిన్ని
+దీన్ని
+దేన్ని
+దాన్నే
+
+______________________________
+
+Word: వచ్చే
+Orthographic Neighbors (5) (dict: dicts/telugu.lemma.txt.dict):
+వచ్చా
+వచ్చి
+వచ్చీ
+వచ్చె
+వచ్చో
+Orthographic Neighbors (5) (dict: dicts/telugu.lex.txt.dict):
+వచ్చా
+వచ్చి
+వచ్చీ
+వచ్చె
+వచ్చో
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+వచ్చి
+వచ్చె
+Orthographic Neighbors (1) (dict: dicts/test.txt.dict):
+వచ్చి
+Orthographic Neighbors (2) (dict: dicts/dictionary.sqlite.dict):
+వచ్చి
+వచ్చీ
+
+______________________________
+
+Word: వద్ద
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: తల్లి
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+తల్లా
+తల్లీ
+తల్లే
+తల్లో
+Orthographic Neighbors (4) (dict: dicts/telugu.lex.txt.dict):
+తల్లా
+తల్లీ
+తల్లే
+తల్లో
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+తల్లే
+
+______________________________
+
+Word: తప్పు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: డబ్బు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: నువ్వు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: వాళ్లు
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+వీళ్లు
+వెళ్లు
+వేళ్లు
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+వీళ్లు
+వెళ్లు
+వేళ్లు
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+వెళ్లు
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (3) (dict: dicts/dictionary.sqlite.dict):
+వేళ్లు
+వొళ్లు
+వౌళ్లు
+
+______________________________
+
+Word: గొప్ప
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+గోప్ప
+Orthographic Neighbors (1) (dict: dicts/telugu.lex.txt.dict):
+గోప్ప
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: పెట్టి
+Orthographic Neighbors (7) (dict: dicts/telugu.lemma.txt.dict):
+పేట్టి
+పొట్టి
+పెట్టా
+పెట్టీ
+పెట్టె
+పెట్టే
+పెట్టో
+Orthographic Neighbors (7) (dict: dicts/telugu.lex.txt.dict):
+పేట్టి
+పొట్టి
+పెట్టా
+పెట్టీ
+పెట్టె
+పెట్టే
+పెట్టో
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+పొట్టి
+పెట్టె
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (4) (dict: dicts/dictionary.sqlite.dict):
+పేట్టి
+పొట్టి
+పెట్టె
+పెట్టే
+
+______________________________
+
+Word: చుట్టూ
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: పన్ను
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: మొక్క
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: నిన్ను
+Orthographic Neighbors (2) (dict: dicts/telugu.lemma.txt.dict):
+నాన్ను
+నీన్ను
+Orthographic Neighbors (2) (dict: dicts/telugu.lex.txt.dict):
+నాన్ను
+నీన్ను
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: కళ్లు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: చెప్పు
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+చొప్పు
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+చోప్పు
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+చొప్పు
+
+______________________________
+
+Word: పెళ్లి
+Orthographic Neighbors (2) (dict: dicts/telugu.lemma.txt.dict):
+పెళ్లా
+పెళ్లీ
+Orthographic Neighbors (2) (dict: dicts/telugu.lex.txt.dict):
+పెళ్లా
+పెళ్లీ
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: జిల్లా
+Orthographic Neighbors (2) (dict: dicts/telugu.lemma.txt.dict):
+జెల్లా
+జిల్లే
+Orthographic Neighbors (2) (dict: dicts/telugu.lex.txt.dict):
+జెల్లా
+జిల్లే
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+జిల్లి
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Category: CV.C1C2V(m)
+Word: మధ్య
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: మాత్రం
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+మిత్రం
+Orthographic Neighbors (1) (dict: dicts/telugu.lex.txt.dict):
+మిత్రం
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: శక్తి
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+శక్తా
+శక్తీ
+శక్తే
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+శక్తా
+శక్తీ
+శక్తే
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ముఖ్య
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: మార్పు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: పూర్తి
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: చర్య
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: గూర్చి
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+గూర్చే
+Orthographic Neighbors (1) (dict: dicts/telugu.lex.txt.dict):
+గూర్చే
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ఖర్చు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: చూస్తే
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+చూస్తా
+చూస్తె
+చూస్తో
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+చూస్తా
+చూస్తె
+చూస్తో
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: భార్య
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: పాత్ర
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+పౌత్ర
+
+______________________________
+
+Word: సార్లు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: కాస్త
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+కోస్త
+Orthographic Neighbors (1) (dict: dicts/telugu.lex.txt.dict):
+కోస్త
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: శబ్దం
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: పేర్లు
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+పీర్లు
+పెర్లు
+పొర్లు
+Orthographic Neighbors (2) (dict: dicts/telugu.lex.txt.dict):
+పీర్లు
+పెర్లు
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+పీర్లు
+పొర్లు
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: భర్త
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: పూర్వం
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: విద్య
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+వాద్య
+వెద్య
+వేద్య
+Orthographic Neighbors (2) (dict: dicts/telugu.lex.txt.dict):
+వాద్య
+వెద్య
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+వాద్య
+వేద్య
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+వాద్య
+
+______________________________
+
+Word: రక్తం
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: పట్ల
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: బోర్డు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: మార్చి
+Orthographic Neighbors (2) (dict: dicts/telugu.lemma.txt.dict):
+మిర్చి
+మార్చే
+Orthographic Neighbors (2) (dict: dicts/telugu.lex.txt.dict):
+మిర్చి
+మార్చే
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+మార్చే
+
+______________________________
+
+Word: తూర్పు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: వస్తే
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+వస్తా
+వస్తి
+వస్తె
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+వస్తా
+వస్తి
+వస్తె
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+వస్తి
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (2) (dict: dicts/dictionary.sqlite.dict):
+వస్తా
+వస్తి
+
+______________________________
+
+Category: CV.CV
+Word: తన
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: మన
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: తమ
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: పని
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+పనా
+పనీ
+పనే
+పనో
+Orthographic Neighbors (4) (dict: dicts/telugu.lex.txt.dict):
+పనా
+పనీ
+పనే
+పనో
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: తల
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: తను
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: మైనా
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+మైనే
+Orthographic Neighbors (1) (dict: dicts/telugu.lex.txt.dict):
+మైనే
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: పది
+Orthographic Neighbors (5) (dict: dicts/telugu.lemma.txt.dict):
+పదా
+పదీ
+పదే
+పదొ
+పదో
+Orthographic Neighbors (5) (dict: dicts/telugu.lex.txt.dict):
+పదా
+పదీ
+పదే
+పదొ
+పదో
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+పదె
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (2) (dict: dicts/dictionary.sqlite.dict):
+పదే
+పదో
+
+______________________________
+
+Word: గత
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: కవి
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+కవీ
+కవే
+కవో
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+కవీ
+కవే
+కవో
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ములు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: మత
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: విని
+Orthographic Neighbors (6) (dict: dicts/telugu.lemma.txt.dict):
+వాని
+వీని
+వినా
+వినీ
+వినే
+వినో
+Orthographic Neighbors (6) (dict: dicts/telugu.lex.txt.dict):
+వాని
+వీని
+వినా
+వినీ
+వినే
+వినో
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+వాని
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (5) (dict: dicts/dictionary.sqlite.dict):
+వాని
+వీని
+వినా
+వినీ
+వినే
+
+______________________________
+
+Word: వలె
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+వలా
+వలి
+వలీ
+వలే
+Orthographic Neighbors (4) (dict: dicts/telugu.lex.txt.dict):
+వలా
+వలి
+వలీ
+వలే
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+వలి
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+వలే
+
+______________________________
+
+Word: కొని
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+కాని
+కీని
+కోని
+కొనే
+Orthographic Neighbors (4) (dict: dicts/telugu.lex.txt.dict):
+కాని
+కీని
+కోని
+కొనే
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+కాని
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (2) (dict: dicts/dictionary.sqlite.dict):
+కాని
+కొనే
+
+______________________________
+
+Word: మని
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+మనీ
+మనే
+మనొ
+మనో
+Orthographic Neighbors (4) (dict: dicts/telugu.lex.txt.dict):
+మనీ
+మనే
+మనొ
+మనో
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+మనీ
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (2) (dict: dicts/dictionary.sqlite.dict):
+మనే
+మనో
+
+______________________________
+
+Word: నది
+Orthographic Neighbors (2) (dict: dicts/telugu.lemma.txt.dict):
+నదీ
+నదె
+Orthographic Neighbors (2) (dict: dicts/telugu.lex.txt.dict):
+నదీ
+నదె
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (2) (dict: dicts/dictionary.sqlite.dict):
+నదా
+నదీ
+
+______________________________
+
+Word: పడి
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+పడీ
+పడె
+పడే
+పడో
+Orthographic Neighbors (4) (dict: dicts/telugu.lex.txt.dict):
+పడీ
+పడె
+పడే
+పడో
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (2) (dict: dicts/dictionary.sqlite.dict):
+పడె
+పడే
+
+______________________________
+
+Word: ధర
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: గదా
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+గది
+గదీ
+గదె
+గదే
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+గది
+గదీ
+గదే
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+గది
+గదె
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+గది
+
+______________________________
+
+Word: సరి
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+సరా
+సరీ
+సరె
+సరే
+Orthographic Neighbors (4) (dict: dicts/telugu.lex.txt.dict):
+సరా
+సరీ
+సరె
+సరే
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (3) (dict: dicts/dictionary.sqlite.dict):
+సరీ
+సరే
+సరో
+
+______________________________
+
+Word: పద
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: కళ
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: కల
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: సమ
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Category: CVV.CV
+Word: నేను
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+నాను
+నిను
+నీను
+నెను
+Orthographic Neighbors (4) (dict: dicts/telugu.lex.txt.dict):
+నాను
+నిను
+నీను
+నెను
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+నాను
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+నాను
+
+______________________________
+
+Word: కాదు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: లేక
+Orthographic Neighbors (2) (dict: dicts/telugu.lemma.txt.dict):
+లెక
+లోక
+Orthographic Neighbors (2) (dict: dicts/telugu.lex.txt.dict):
+లెక
+లోక
+Orthographic Neighbors (3) (dict: dicts/sortdict.txt.dict):
+లిక
+లెక
+లోక
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+లోక
+
+______________________________
+
+Word: మూడు
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: మీరు
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+మారు
+మిరు
+మేరు
+మోరు
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+మారు
+మిరు
+మేరు
+Orthographic Neighbors (3) (dict: dicts/sortdict.txt.dict):
+మారు
+మేరు
+మోరు
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (2) (dict: dicts/dictionary.sqlite.dict):
+మారు
+మోరు
+
+______________________________
+
+Word: పేజీ
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+పీజీ
+పేజి
+పేజే
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+పీజీ
+పేజి
+పేజే
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+పెజీ
+పేజి
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: నాకు
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+నీకు
+Orthographic Neighbors (1) (dict: dicts/telugu.lex.txt.dict):
+నీకు
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+నీకు
+నౌకు
+Orthographic Neighbors (1) (dict: dicts/test.txt.dict):
+నీకు
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+నీకు
+
+______________________________
+
+Word: కూడా
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+కూడి
+Orthographic Neighbors (1) (dict: dicts/telugu.lex.txt.dict):
+కూడి
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (2) (dict: dicts/dictionary.sqlite.dict):
+కూడి
+కూడే
+
+______________________________
+
+Word: కానీ
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+కాని
+కానె
+కానే
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+కాని
+కానె
+కానే
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+కాని
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+కాని
+
+______________________________
+
+Word: బాగా
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+బోగా
+బాగీ
+బాగే
+బాగో
+Orthographic Neighbors (4) (dict: dicts/telugu.lex.txt.dict):
+బోగా
+బాగీ
+బాగే
+బాగో
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: చేసి
+Orthographic Neighbors (6) (dict: dicts/telugu.lemma.txt.dict):
+చెసి
+చేసా
+చేసీ
+చేసె
+చేసే
+చేసో
+Orthographic Neighbors (6) (dict: dicts/telugu.lex.txt.dict):
+చెసి
+చేసా
+చేసీ
+చేసె
+చేసే
+చేసో
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+చేసె
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+చేసే
+
+______________________________
+
+Word: పేరు
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+పారు
+పీరు
+పెరు
+పోరు
+Orthographic Neighbors (4) (dict: dicts/telugu.lex.txt.dict):
+పారు
+పీరు
+పెరు
+పోరు
+Orthographic Neighbors (4) (dict: dicts/sortdict.txt.dict):
+పారు
+పీరు
+పెరు
+పోరు
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (4) (dict: dicts/dictionary.sqlite.dict):
+పారు
+పీరు
+పెరు
+పోరు
+
+______________________________
+
+Word: చాలా
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+చెలా
+చాలి
+చాలీ
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+చెలా
+చాలి
+చాలీ
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+చోలా
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (2) (dict: dicts/dictionary.sqlite.dict):
+చాలి
+చాలీ
+
+______________________________
+
+Word: మాట
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+మిట
+మీట
+మేట
+మోట
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+మిట
+మీట
+మేట
+Orthographic Neighbors (3) (dict: dicts/sortdict.txt.dict):
+మీట
+మేట
+మోట
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (3) (dict: dicts/dictionary.sqlite.dict):
+మీట
+మోట
+మౌట
+
+______________________________
+
+Word: వేరు
+Orthographic Neighbors (2) (dict: dicts/telugu.lemma.txt.dict):
+వారు
+వీరు
+Orthographic Neighbors (2) (dict: dicts/telugu.lex.txt.dict):
+వారు
+వీరు
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+వారు
+వీరు
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (2) (dict: dicts/dictionary.sqlite.dict):
+వారు
+వీరు
+
+______________________________
+
+Word: మీకు
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+మాకు
+మెకు
+మేకు
+మోకు
+Orthographic Neighbors (4) (dict: dicts/telugu.lex.txt.dict):
+మాకు
+మెకు
+మేకు
+మోకు
+Orthographic Neighbors (3) (dict: dicts/sortdict.txt.dict):
+మాకు
+మేకు
+మోకు
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (3) (dict: dicts/dictionary.sqlite.dict):
+మాకు
+మేకు
+మోకు
+
+______________________________
+
+Word: వాడు
+Orthographic Neighbors (5) (dict: dicts/telugu.lemma.txt.dict):
+విడు
+వీడు
+వెడు
+వేడు
+వోడు
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+వీడు
+వేడు
+వోడు
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+విడు
+వీడు
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (3) (dict: dicts/dictionary.sqlite.dict):
+వీడు
+వేడు
+వోడు
+
+______________________________
+
+Word: చూసి
+Orthographic Neighbors (6) (dict: dicts/telugu.lemma.txt.dict):
+చూసా
+చూసీ
+చూసె
+చూసే
+చూసొ
+చూసో
+Orthographic Neighbors (6) (dict: dicts/telugu.lex.txt.dict):
+చూసా
+చూసీ
+చూసె
+చూసే
+చూసొ
+చూసో
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+చూసే
+
+______________________________
+
+Word: గాలి
+Orthographic Neighbors (4) (dict: dicts/telugu.lemma.txt.dict):
+గిలి
+గేలి
+గోలి
+గాలీ
+Orthographic Neighbors (4) (dict: dicts/telugu.lex.txt.dict):
+గిలి
+గేలి
+గోలి
+గాలీ
+Orthographic Neighbors (3) (dict: dicts/sortdict.txt.dict):
+గిలి
+గేలి
+గోలి
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+గేలి
+
+______________________________
+
+Word: నీకు
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+నాకు
+Orthographic Neighbors (1) (dict: dicts/telugu.lex.txt.dict):
+నాకు
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+నాకు
+నౌకు
+Orthographic Neighbors (1) (dict: dicts/test.txt.dict):
+నాకు
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+నాకు
+
+______________________________
+
+Word: లేవు
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+లావు
+లీవు
+లెవు
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+లావు
+లీవు
+లెవు
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+లావు
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+లావు
+
+______________________________
+
+Word: రాజు
+Orthographic Neighbors (2) (dict: dicts/telugu.lemma.txt.dict):
+రొజు
+రోజు
+Orthographic Neighbors (2) (dict: dicts/telugu.lex.txt.dict):
+రొజు
+రోజు
+Orthographic Neighbors (1) (dict: dicts/sortdict.txt.dict):
+రోజు
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+రోజు
+
+______________________________
+
+Word: వాడి
+Orthographic Neighbors (9) (dict: dicts/telugu.lemma.txt.dict):
+విడి
+వీడి
+వేడి
+వొడి
+వాడా
+వాడీ
+వాడె
+వాడే
+వాడో
+Orthographic Neighbors (8) (dict: dicts/telugu.lex.txt.dict):
+విడి
+వీడి
+వేడి
+వాడా
+వాడీ
+వాడె
+వాడే
+వాడో
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+విడి
+వేడి
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (7) (dict: dicts/dictionary.sqlite.dict):
+విడి
+వీడి
+వేడి
+వొడి
+వోడి
+వాడా
+వాడే
+
+______________________________
+
+Word: మూల
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: వేల
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+వాల
+విల
+వెల
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+వాల
+విల
+వెల
+Orthographic Neighbors (2) (dict: dicts/sortdict.txt.dict):
+వాల
+వెల
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+వెల
+
+______________________________
+
+Category: C1C2V.CV
+Word: ప్రతి
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+ప్రతీ
+ప్రతె
+ప్రతే
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+ప్రతీ
+ప్రతె
+ప్రతే
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+ప్రతీ
+
+______________________________
+
+Word: క్రింది
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+క్రిందే
+క్రిందొ
+క్రిందో
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+క్రిందే
+క్రిందొ
+క్రిందో
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: శ్రమ
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: దృష్టి
+Orthographic Neighbors (2) (dict: dicts/telugu.lemma.txt.dict):
+దృష్టీ
+దృష్టే
+Orthographic Neighbors (2) (dict: dicts/telugu.lex.txt.dict):
+దృష్టీ
+దృష్టే
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ప్రేమ
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+ప్రెమ
+Orthographic Neighbors (1) (dict: dicts/telugu.lex.txt.dict):
+ప్రెమ
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: వ్యాధి
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+వ్యాధా
+వ్యాధీ
+వ్యాధే
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+వ్యాధా
+వ్యాధీ
+వ్యాధే
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ప్రశ్న
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: క్రమం
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: న్యాయం
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: క్రొత్త
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+క్రోత్త
+Orthographic Neighbors (1) (dict: dicts/telugu.lex.txt.dict):
+క్రోత్త
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: స్థితి
+Orthographic Neighbors (2) (dict: dicts/telugu.lemma.txt.dict):
+స్థితీ
+స్థితే
+Orthographic Neighbors (2) (dict: dicts/telugu.lex.txt.dict):
+స్థితీ
+స్థితే
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: వృద్ధి
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+వృద్ధే
+Orthographic Neighbors (1) (dict: dicts/telugu.lex.txt.dict):
+వృద్ధే
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ద్వారా
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+ద్వారే
+Orthographic Neighbors (1) (dict: dicts/telugu.lex.txt.dict):
+ద్వారే
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: జ్ఞానం
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: వ్యాప్తి
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: వ్యక్తి
+Orthographic Neighbors (3) (dict: dicts/telugu.lemma.txt.dict):
+వ్యక్తీ
+వ్యక్తే
+వ్యక్తో
+Orthographic Neighbors (3) (dict: dicts/telugu.lex.txt.dict):
+వ్యక్తీ
+వ్యక్తే
+వ్యక్తో
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: స్వయం
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: స్పష్టం
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ప్రభ
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: త్యాగం
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ప్రాయం
+Orthographic Neighbors (1) (dict: dicts/telugu.lemma.txt.dict):
+ప్రియం
+Orthographic Neighbors (1) (dict: dicts/telugu.lex.txt.dict):
+ప్రియం
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: గ్రహం
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ప్రాప్తి
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: ప్రాంతం
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+
+Word: వ్రాత
+Orthographic Neighbors (0) (dict: dicts/telugu.lemma.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/telugu.lex.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/sortdict.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/test.txt.dict):
+
+Orthographic Neighbors (0) (dict: dicts/dictionary.sqlite.dict):
+
+
+______________________________
+

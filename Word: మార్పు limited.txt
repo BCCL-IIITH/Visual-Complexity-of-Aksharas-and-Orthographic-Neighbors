@@ -1,0 +1,261 @@
+Word: మార్పు
+syllable structure C1V.C1C2V
+syllable breakup మా.ర్పు
+by keeping syllable "మా" same
+మా.ర్పు (C1V.C1C2V) -> మా.C1C2V
+  syllable parts ['మా']
+     మా = 1
+  syllable parts ['C1C2', 'V']
+     C1C2 = 1225
+     V = 14
+syllable types ['మా', 'C1C2V']
+syllable set sizes [1, 17150]
+total potential words 17150
+మాక్క, మాక్కా, మాక్కి, మాక్కీ, మాక్కు, మాక్కూ, మాక్కృ, మాక్కౄ, మాక్కె, మాక్కే ...
+dicts/telugu.lemma.txt.dict 55
+మాగ్గ, మాట్నీ, మాట్ల, మాట్లా, మాట్లు, మాడ్చి, మాడ్చు, మాడ్లీ, మాత్మ, మాత్యూ ...
+dicts/telugu.lex.txt.dict 52
+మాగ్గ, మాట్నీ, మాట్ల, మాట్లా, మాట్లు, మాడ్చి, మాడ్లీ, మాత్మ, మాత్యూ, మాత్ర ...
+dicts/sortdict.txt.dict 7
+మాత్మ, మాత్ర, మాత్రా, మాద్రి, మార్క, మార్కు, మార్చు 
+dicts/test.txt.dict 0
+ 
+dicts/dictionary.sqlite.dict 0
+ 
+--------------------
+by adding anusvara after vowel
+మా.ర్పు (C1V.C1C2V) -> మాం.C1C2V
+  syllable parts ['మాం']
+     మాం = 1
+  syllable parts ['C1C2', 'V']
+     C1C2 = 1225
+     V = 14
+syllable types ['మాం', 'C1C2V']
+syllable set sizes [1, 17150]
+total potential words 17150
+మాంక్క, మాంక్కా, మాంక్కి, మాంక్కీ, మాంక్కు, మాంక్కూ, మాంక్కృ, మాంక్కౄ, మాంక్కె, మాంక్కే ...
+dicts/telugu.lemma.txt.dict 3
+మాండ్య, మాండ్ల, మాంద్య 
+dicts/telugu.lex.txt.dict 3
+మాండ్య, మాండ్ల, మాంద్య 
+dicts/sortdict.txt.dict 1
+మాంద్య 
+dicts/test.txt.dict 0
+ 
+dicts/dictionary.sqlite.dict 0
+ 
+--------------------
+by keeping syllable "ర్పు" same
+మా.ర్పు (C1V.C1C2V) -> C1V.ర్పు
+  syllable parts ['C1', 'V']
+     C1 = 35
+     V = 14
+  syllable parts ['ర్పు']
+     ర్పు = 1
+syllable types ['C1V', 'ర్పు']
+syllable set sizes [490, 1]
+total potential words 490
+కర్పు, కార్పు, కిర్పు, కీర్పు, కుర్పు, కూర్పు, కృర్పు, కౄర్పు, కెర్పు, కేర్పు ...
+dicts/telugu.lemma.txt.dict 9
+కూర్పు, గుర్పు, చేర్పు, తీర్పు, తూర్పు, నేర్పు, మార్పు, వర్పు, వార్పు 
+dicts/telugu.lex.txt.dict 8
+కూర్పు, గుర్పు, చేర్పు, తీర్పు, తూర్పు, నేర్పు, మార్పు, వర్పు 
+dicts/sortdict.txt.dict 3
+తీర్పు, తూర్పు, నేర్పు 
+dicts/test.txt.dict 1
+తూర్పు 
+dicts/dictionary.sqlite.dict 1
+తూర్పు 
+--------------------
+by adding anusvara after vowel
+మా.ర్పు (C1V.C1C2V) -> C1V.ర్పుం
+  syllable parts ['C1', 'V']
+     C1 = 35
+     V = 14
+  syllable parts ['ర్పుం']
+     ర్పుం = 1
+syllable types ['C1V', 'ర్పుం']
+syllable set sizes [490, 1]
+total potential words 490
+కర్పుం, కార్పుం, కిర్పుం, కీర్పుం, కుర్పుం, కూర్పుం, కృర్పుం, కౄర్పుం, కెర్పుం, కేర్పుం ...
+dicts/telugu.lemma.txt.dict 0
+ 
+dicts/telugu.lex.txt.dict 0
+ 
+dicts/sortdict.txt.dict 0
+ 
+dicts/test.txt.dict 0
+ 
+dicts/dictionary.sqlite.dict 0
+ 
+--------------------
+by deleting C2 from C1C2
+మా.ర్పు (C1V.C1C2V) -> మా.రు
+  syllable parts ['మా']
+     మా = 1
+  syllable parts ['రు']
+     రు = 1
+syllable types ['మా', 'రు']
+syllable set sizes [1, 1]
+total potential words 1
+మారు 
+dicts/telugu.lemma.txt.dict 1
+మారు 
+dicts/telugu.lex.txt.dict 1
+మారు 
+dicts/sortdict.txt.dict 1
+మారు 
+dicts/test.txt.dict 0
+ 
+dicts/dictionary.sqlite.dict 0
+ 
+--------------------
+Orthographic Neighbors (66) (dict: dicts/telugu.lemma.txt.dict):
+మాగ్గ
+మాట్నీ
+మాట్ల
+మాట్లా
+మాట్లు
+మాడ్చి
+మాడ్చు
+మాడ్లీ
+మాత్మ
+మాత్యూ
+మాత్ర
+మాత్రా
+మాత్రు
+మాద్రి
+మాద్రీ
+మాన్పి
+మాన్పు
+మాన్య
+మాన్లు
+మాన్సా
+మామ్మ
+మార్క
+మార్కు
+మార్కో
+మార్గ
+మార్చ
+మార్చి
+మార్చు
+మార్చే
+మార్ఛి
+మార్టా
+మార్త
+మార్తా
+మార్తు
+మార్పా
+మార్పూ
+మార్పే
+మార్పో
+మార్లు
+మార్లూ
+మార్లే
+మార్వా
+మాల్టా
+మాల్డా
+మాల్ఫై
+మాల్య
+మాల్లో
+మాల్వ
+మాల్వా
+మాస్కో
+మాస్తి
+మాళ్వ
+మాళ్వా
+మాళ్ళా
+మాండ్య
+మాండ్ల
+మాంద్య
+కూర్పు
+గుర్పు
+చేర్పు
+తీర్పు
+తూర్పు
+నేర్పు
+వర్పు
+వార్పు
+మారు
+Orthographic Neighbors (62) (dict: dicts/telugu.lex.txt.dict):
+మాగ్గ
+మాట్నీ
+మాట్ల
+మాట్లా
+మాట్లు
+మాడ్చి
+మాడ్లీ
+మాత్మ
+మాత్యూ
+మాత్ర
+మాత్రా
+మాత్రు
+మాద్రి
+మాద్రీ
+మాన్పి
+మాన్లు
+మాన్సా
+మామ్మ
+మార్క
+మార్కు
+మార్కో
+మార్గ
+మార్చ
+మార్చి
+మార్చు
+మార్చే
+మార్ఛి
+మార్టా
+మార్త
+మార్తా
+మార్తు
+మార్పా
+మార్పూ
+మార్పే
+మార్పో
+మార్లు
+మార్లూ
+మార్లే
+మార్వా
+మాల్టా
+మాల్డా
+మాల్ఫై
+మాల్య
+మాల్లో
+మాల్వ
+మాల్వా
+మాస్కో
+మాస్తి
+మాళ్వ
+మాళ్వా
+మాళ్ళా
+మాండ్య
+మాండ్ల
+మాంద్య
+కూర్పు
+గుర్పు
+చేర్పు
+తీర్పు
+తూర్పు
+నేర్పు
+వర్పు
+మారు
+Orthographic Neighbors (12) (dict: dicts/sortdict.txt.dict):
+మాత్మ
+మాత్ర
+మాత్రా
+మాద్రి
+మార్క
+మార్కు
+మార్చు
+మాంద్య
+తీర్పు
+తూర్పు
+నేర్పు
+మారు
+Orthographic Neighbors (1) (dict: dicts/test.txt.dict):
+తూర్పు
+Orthographic Neighbors (1) (dict: dicts/dictionary.sqlite.dict):
+తూర్పు
+
+------------------------------

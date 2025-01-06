@@ -1,0 +1,2805 @@
+Category: V. CV
+Word: ఒక
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (1):
+ఒర
+
+______________________________
+
+Word: అని
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (15):
+అగి
+అటి
+అడి
+అణి
+అతి
+అథి
+అది
+అధి
+అయి
+అరి
+అవి
+అశి
+అసి
+అహి
+అళి
+
+______________________________
+
+Word: ఇది
+Orthographic Neighbors (2):
+ఇదీ
+ఇదే
+
+Phonological Neighbors (4):
+ఇడి
+ఇని
+ఇలి
+ఇవి
+
+______________________________
+
+Word: అది
+Orthographic Neighbors (2):
+అదె
+అదే
+
+Phonological Neighbors (15):
+అగి
+అటి
+అడి
+అణి
+అతి
+అథి
+అధి
+అని
+అయి
+అరి
+అవి
+అశి
+అసి
+అహి
+అళి
+
+______________________________
+
+Word: అనే
+Orthographic Neighbors (1):
+అని
+
+Phonological Neighbors (1):
+అదే
+
+______________________________
+
+Word: అవి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (15):
+అగి
+అటి
+అడి
+అణి
+అతి
+అథి
+అది
+అధి
+అని
+అయి
+అరి
+అశి
+అసి
+అహి
+అళి
+
+______________________________
+
+Word: ఇవి
+Orthographic Neighbors (1):
+ఇవీ
+
+Phonological Neighbors (4):
+ఇడి
+ఇది
+ఇని
+ఇలి
+
+______________________________
+
+Word: అను
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (7):
+అకు
+అగు
+అటు
+అడు
+అణు
+అవు
+అసు
+
+______________________________
+
+Word: ఒకే
+Orthographic Neighbors (1):
+ఒకొ
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: ఆమె
+Orthographic Neighbors (1):
+ఆమి
+
+Phonological Neighbors (4):
+ఆకె
+ఆణె
+ఆపె
+ఆరె
+
+______________________________
+
+Word: ఇలా
+Orthographic Neighbors (1):
+ఇలి
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: అదే
+Orthographic Neighbors (2):
+అది
+అదె
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: అలా
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (4):
+అణా
+అభా
+అమా
+అహా
+
+______________________________
+
+Word: ఎలా
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: ఏదో
+Orthographic Neighbors (2):
+ఏది
+ఏదీ
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: అతి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (15):
+అగి
+అటి
+అడి
+అణి
+అథి
+అది
+అధి
+అని
+అయి
+అరి
+అవి
+అశి
+అసి
+అహి
+అళి
+
+______________________________
+
+Word: ఆయా
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (5):
+ఆజా
+ఆదా
+ఆరా
+ఆశా
+ఆహా
+
+______________________________
+
+Word: ఇక
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (6):
+ఇగ
+ఇట
+ఇడ
+ఇర
+ఇల
+ఇళ
+
+______________________________
+
+Word: ఇదే
+Orthographic Neighbors (2):
+ఇది
+ఇదీ
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: ఏమి
+Orthographic Neighbors (3):
+ఏమీ
+ఏమె
+ఏమే
+
+Phonological Neighbors (4):
+ఏది
+ఏని
+ఏలి
+ఏసి
+
+______________________________
+
+Word: ఆరు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (11):
+ఆకు
+ఆగు
+ఆటు
+ఆడు
+ఆధు
+ఆను
+ఆపు
+ఆము
+ఆయు
+ఆలు
+ఆవు
+
+______________________________
+
+Word: ఏది
+Orthographic Neighbors (2):
+ఏదీ
+ఏదో
+
+Phonological Neighbors (4):
+ఏని
+ఏమి
+ఏలి
+ఏసి
+
+______________________________
+
+Word: అటు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (7):
+అకు
+అగు
+అడు
+అణు
+అను
+అవు
+అసు
+
+______________________________
+
+Word: ఆట
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (9):
+ఆడ
+ఆద
+ఆన
+ఆప
+ఆర
+ఆల
+ఆవ
+ఆశ
+ఆస
+
+______________________________
+
+Word: ఐదు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Category: V. CCV / V. C1C2V
+Word: ఎన్ని
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: అన్నీ
+Orthographic Neighbors (2):
+అన్నా
+అన్ని
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: అమ్మ
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (2):
+అజ్మ
+అశ్మ
+
+______________________________
+
+Word: ఇల్లు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (1):
+ఇట్లు
+
+______________________________
+
+Word: ఇచ్చి
+Orthographic Neighbors (2):
+ఇచ్చా
+ఇచ్చే
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: ఒక్క
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: ఇట్టి
+Orthographic Neighbors (1):
+ఇట్టీ
+
+Phonological Neighbors (1):
+ఇష్టి
+
+______________________________
+
+Word: ఎత్తు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: అంటే
+Orthographic Neighbors (1):
+అంటి
+
+Phonological Neighbors (4):
+అంచే
+అంజే
+అంతే
+అంబే
+
+______________________________
+
+Word: ఉంది
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (1):
+ఉండి
+
+______________________________
+
+Word: ఎంత
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (1):
+ఎండ
+
+______________________________
+
+Word: ఇంకా
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: ఏంటో
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: అంత
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (9):
+అంక
+అంగ
+అంచ
+అంజ
+అంట
+అండ
+అంధ
+అంబ
+అంభ
+
+______________________________
+
+Word: ఇంత
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (2):
+ఇంక
+ఇంగ
+
+______________________________
+
+Word: ఉంటే
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: అంటూ
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (1):
+అందూ
+
+______________________________
+
+Word: ఇట్లు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (1):
+ఇల్లు
+
+______________________________
+
+Word: అందు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (7):
+అంకు
+అంగు
+అంచు
+అంటు
+అంతు
+అంపు
+అంబు
+
+______________________________
+
+Word: ఇంకో
+Orthographic Neighbors (1):
+ఇంకా
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: ఇంటి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (2):
+ఇంతి
+ఇంది
+
+______________________________
+
+Word: ఇంట్లో
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: ఇట్లు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (1):
+ఇల్లు
+
+______________________________
+
+Word: అంటూ
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (1):
+అందూ
+
+______________________________
+
+Word: ఉండి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (1):
+ఉంది
+
+______________________________
+
+Category: CVN.CV / CV. CVm
+Word: రెండు
+Orthographic Neighbors (1):
+రొండు
+
+Phonological Neighbors (4):
+చెండు
+తెండు
+బెండు
+మెండు
+
+______________________________
+
+Word: నుంచి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (2):
+నుంటి
+నుండి
+
+______________________________
+
+Word: ముందు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (3):
+ముంచు
+ముండు
+ముంపు
+
+______________________________
+
+Word: కొంత
+Orthographic Neighbors (2):
+కాంత
+కోంత
+
+Phonological Neighbors (9):
+పొంత
+బొంత
+హొంత
+కొంగ
+కొంచ
+కొంజ
+కొంట
+కొండ
+కొంప
+
+______________________________
+
+Word: వంట
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (17):
+కంట
+గంట
+ఘంట
+జంట
+తంట
+దంట
+పంట
+మంట
+వంక
+వంగ
+వంచ
+వంజ
+వంఠ
+వండ
+వంత
+వంద
+వంశ
+
+______________________________
+
+Word: మంది
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (13):
+కంది
+చంది
+తంది
+నంది
+పంది
+బంది
+లంది
+వంది
+సంది
+మంగి
+మంచి
+మండి
+మంబి
+
+______________________________
+
+Word: కింది
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: కాంతి
+Orthographic Neighbors (3):
+కోంతి
+కౌంతి
+కాంతా
+
+Phonological Neighbors (8):
+తాంతి
+థాంతి
+దాంతి
+బాంతి
+వాంతి
+శాంతి
+కాంచి
+కాండి
+
+______________________________
+
+Word: కంటే
+Orthographic Neighbors (1):
+కంటె
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: రెండో
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: రంగు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (14):
+కంగు
+జంగు
+టంగు
+డంగు
+తంగు
+దంగు
+నంగు
+పంగు
+బంగు
+మంగు
+వంగు
+రంతు
+రంపు
+రంబు
+
+______________________________
+
+Word: చెంది
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: బంతి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (7):
+కంతి
+తంతి
+దంతి
+బంగి
+బంటి
+బండి
+బంది
+
+______________________________
+
+Word: శాంతి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (6):
+కాంతి
+తాంతి
+థాంతి
+దాంతి
+బాంతి
+వాంతి
+
+______________________________
+
+Word: ముందే
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: హిందీ
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (1):
+బిందీ
+
+______________________________
+
+Word: గుండె
+Orthographic Neighbors (2):
+గుండా
+గుండీ
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: పంట
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (15):
+కంట
+గంట
+ఘంట
+జంట
+తంట
+దంట
+మంట
+వంట
+పంక
+పంగ
+పంచ
+పండ
+పంద
+పంప
+పంబ
+
+______________________________
+
+Word: మందు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (15):
+కందు
+చందు
+నందు
+బందు
+యందు
+లందు
+వందు
+సందు
+మంకు
+మంగు
+మంచు
+మండు
+మంతు
+మంపు
+మంబు
+
+______________________________
+
+Word: కాలం
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: భాగం
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (2):
+భారం
+భావం
+
+______________________________
+
+Word: శతం
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (2):
+బతం
+శకం
+
+______________________________
+
+Word: పటం
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (2):
+ఘటం
+వటం
+
+______________________________
+
+Word: దూరం
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (1):
+దూలం
+
+______________________________
+
+Word: పాపం
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Category: CV.C1C1V
+Word: పెద్ద
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (1):
+బెద్ద
+
+______________________________
+
+Word: యొక్క
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (4):
+చొక్క
+తొక్క
+బొక్క
+మొక్క
+
+______________________________
+
+Word: చిన్న
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (6):
+గిన్న
+పిన్న
+భిన్న
+మిన్న
+విన్న
+చిహ్న
+
+______________________________
+
+Word: వచ్చి
+Orthographic Neighbors (2):
+వచ్చె
+వచ్చే
+
+Phonological Neighbors (4):
+కచ్చి
+దచ్చి
+పచ్చి
+లచ్చి
+
+______________________________
+
+Word: బట్టి
+Orthographic Neighbors (1):
+బట్టె
+
+Phonological Neighbors (9):
+కట్టి
+గట్టి
+చట్టి
+తట్టి
+దట్టి
+పట్టి
+భట్టి
+మట్టి
+వట్టి
+
+______________________________
+
+Word: నన్ను
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (6):
+కన్ను
+గన్ను
+చన్ను
+తన్ను
+పన్ను
+మన్ను
+
+______________________________
+
+Word: కొత్త
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (4):
+దొత్త
+బొత్త
+మొత్త
+లొత్త
+
+______________________________
+
+Word: దాన్ని
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: వచ్చే
+Orthographic Neighbors (2):
+వచ్చి
+వచ్చె
+
+Phonological Neighbors (2):
+పచ్చే
+మచ్చే
+
+______________________________
+
+Word: వద్ద
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (4):
+గద్ద
+తద్ద
+బద్ద
+వబ్ద
+
+______________________________
+
+Word: తల్లి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (9):
+చల్లి
+ఛల్లి
+జల్లి
+డల్లి
+నల్లి
+పల్లి
+బల్లి
+మల్లి
+వల్లి
+
+______________________________
+
+Word: తప్పు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (6):
+కప్పు
+డప్పు
+నప్పు
+పప్పు
+మప్పు
+రప్పు
+
+______________________________
+
+Word: డబ్బు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (4):
+గబ్బు
+దబ్బు
+మబ్బు
+సబ్బు
+
+______________________________
+
+Word: నువ్వు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (3):
+జువ్వు
+పువ్వు
+రువ్వు
+
+______________________________
+
+Word: వాళ్లు
+Orthographic Neighbors (1):
+వెళ్లు
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: గొప్ప
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (5):
+చొప్ప
+డొప్ప
+దొప్ప
+నొప్ప
+లొప్ప
+
+______________________________
+
+Word: పెట్టి
+Orthographic Neighbors (2):
+పొట్టి
+పెట్టె
+
+Phonological Neighbors (5):
+జెట్టి
+బెట్టి
+రెట్టి
+వెట్టి
+సెట్టి
+
+______________________________
+
+Word: చుట్టూ
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: పన్ను
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (5):
+కన్ను
+గన్ను
+చన్ను
+తన్ను
+మన్ను
+
+______________________________
+
+Word: మొక్క
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (4):
+చొక్క
+తొక్క
+బొక్క
+యొక్క
+
+______________________________
+
+Word: నిన్ను
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (2):
+మిన్ను
+విన్ను
+
+______________________________
+
+Word: కళ్లు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (5):
+తళ్లు
+మళ్లు
+వళ్లు
+సళ్లు
+కల్లు
+
+______________________________
+
+Word: చెప్పు
+Orthographic Neighbors (1):
+చోప్పు
+
+Phonological Neighbors (6):
+జెప్పు
+డెప్పు
+దెప్పు
+నెప్పు
+మెప్పు
+వెప్పు
+
+______________________________
+
+Word: పెళ్లి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: జిల్లా
+Orthographic Neighbors (1):
+జిల్లి
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Category: CV.C1C2V(m)
+Word: మధ్య
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (3):
+రధ్య
+మన్య
+మస్య
+
+______________________________
+
+Word: మాత్రం
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: శక్తి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (2):
+భక్తి
+రక్తి
+
+______________________________
+
+Word: ముఖ్య
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: మార్పు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (2):
+తార్పు
+వార్పు
+
+______________________________
+
+Word: పూర్తి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (2):
+జూర్తి
+మూర్తి
+
+______________________________
+
+Word: చర్య
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (3):
+వర్య
+సర్య
+చవ్య
+
+______________________________
+
+Word: గూర్చి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (2):
+కూర్చి
+గూల్చి
+
+______________________________
+
+Word: ఖర్చు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (2):
+తర్చు
+నర్చు
+
+______________________________
+
+Word: చూస్తే
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: భార్య
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (2):
+కార్య
+ధార్య
+
+______________________________
+
+Word: పాత్ర
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (4):
+ఛాత్ర
+మాత్ర
+యాత్ర
+రాత్ర
+
+______________________________
+
+Word: సార్లు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: కాస్త
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (2):
+నాస్త
+శాస్త
+
+______________________________
+
+Word: శబ్దం
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: పేర్లు
+Orthographic Neighbors (2):
+పీర్లు
+పొర్లు
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: భర్త
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (6):
+కర్త
+గర్త
+ధర్త
+మర్త
+హర్త
+భక్త
+
+______________________________
+
+Word: పూర్వం
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: విద్య
+Orthographic Neighbors (2):
+వాద్య
+వేద్య
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: రక్తం
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: పట్ల
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (3):
+కట్ల
+పల్ల
+పళ్ల
+
+______________________________
+
+Word: బోర్డు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: మార్చి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (1):
+వార్చి
+
+______________________________
+
+Word: తూర్పు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: వస్తే
+Orthographic Neighbors (1):
+వస్తి
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Category: CV.CV
+Word: తన
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (17):
+కన
+గన
+ఘన
+టన
+నన
+పన
+మన
+రన
+వన
+హన
+తక
+తగ
+తడ
+తప
+తల
+తవ
+తశ
+
+______________________________
+
+Word: మన
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (22):
+కన
+గన
+ఘన
+టన
+తన
+నన
+పన
+రన
+వన
+హన
+మక
+మఖ
+మగ
+మఘ
+మట
+మఠ
+మడ
+మత
+మద
+మర
+మల
+మస
+
+______________________________
+
+Word: తమ
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (15):
+చమ
+జమ
+బమ
+భమ
+యమ
+రమ
+సమ
+తక
+తగ
+తడ
+తన
+తప
+తల
+తవ
+తశ
+
+______________________________
+
+Word: పని
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (21):
+ఖని
+గని
+జని
+తని
+దని
+ధని
+మని
+యని
+లని
+వని
+శని
+సని
+పటి
+పడి
+పణి
+పతి
+పథి
+పది
+పరి
+పవి
+పసి
+
+______________________________
+
+Word: తల
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (21):
+కల
+ఖల
+గల
+చల
+జల
+నల
+పల
+ఫల
+బల
+మల
+రల
+వల
+శల
+సల
+తక
+తగ
+తడ
+తన
+తప
+తవ
+తశ
+
+______________________________
+
+Word: తను
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (10):
+కను
+మను
+యను
+లను
+సను
+తగు
+తము
+తరు
+తలు
+తవు
+
+______________________________
+
+Word: మైనా
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (1):
+చైనా
+
+______________________________
+
+Word: పది
+Orthographic Neighbors (1):
+పదె
+
+Phonological Neighbors (15):
+గది
+ఛది
+నది
+మది
+యది
+వది
+పటి
+పడి
+పణి
+పతి
+పథి
+పని
+పరి
+పవి
+పసి
+
+______________________________
+
+Word: గత
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (17):
+కత
+జత
+డత
+దత
+మత
+లత
+వత
+సత
+గక
+గజ
+గడ
+గద
+గన
+గయ
+గర
+గల
+గస
+
+______________________________
+
+Word: కవి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (16):
+గవి
+చవి
+ఛవి
+నవి
+పవి
+రవి
+సవి
+కటి
+కడి
+కపి
+కఫి
+కమి
+కయి
+కరి
+కలి
+కసి
+
+______________________________
+
+Word: ములు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (13):
+కులు
+గులు
+జులు
+డులు
+తులు
+దులు
+పులు
+బులు
+సులు
+ముకు
+ముచు
+మును
+మురు
+
+______________________________
+
+Word: మత
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (20):
+కత
+గత
+జత
+డత
+దత
+లత
+వత
+సత
+మక
+మఖ
+మగ
+మఘ
+మట
+మఠ
+మడ
+మద
+మన
+మర
+మల
+మస
+
+______________________________
+
+Word: విని
+Orthographic Neighbors (1):
+వాని
+
+Phonological Neighbors (7):
+చిని
+తిని
+శిని
+విటి
+విడి
+విధి
+విరి
+
+______________________________
+
+Word: వలె
+Orthographic Neighbors (1):
+వలి
+
+Phonological Neighbors (2):
+బలె
+వదె
+
+______________________________
+
+Word: కొని
+Orthographic Neighbors (1):
+కాని
+
+Phonological Neighbors (4):
+గొని
+కొడి
+కొరి
+కొలి
+
+______________________________
+
+Word: మని
+Orthographic Neighbors (1):
+మనీ
+
+Phonological Neighbors (21):
+ఖని
+గని
+జని
+తని
+దని
+ధని
+పని
+యని
+లని
+వని
+శని
+సని
+మడి
+మణి
+మతి
+మది
+మయి
+మరి
+మషి
+మసి
+మహి
+
+______________________________
+
+Word: నది
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (11):
+గది
+ఛది
+పది
+మది
+యది
+వది
+నటి
+నడి
+నతి
+నలి
+నవి
+
+______________________________
+
+Word: పడి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (22):
+కడి
+గడి
+ఛడి
+జడి
+తడి
+దడి
+నడి
+బడి
+మడి
+రడి
+లడి
+వడి
+సడి
+పటి
+పణి
+పతి
+పథి
+పది
+పని
+పరి
+పవి
+పసి
+
+______________________________
+
+Word: ధర
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (15):
+కర
+ఖర
+గర
+జర
+దర
+నర
+పర
+భర
+మర
+లర
+వర
+శర
+సర
+ధట
+ధఢ
+
+______________________________
+
+Word: గదా
+Orthographic Neighbors (2):
+గది
+గదె
+
+Phonological Neighbors (2):
+సదా
+గడా
+
+______________________________
+
+Word: సరి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (17):
+కరి
+గరి
+తరి
+దరి
+పరి
+బరి
+మరి
+వరి
+హరి
+సకి
+సఖి
+సడి
+సతి
+సని
+సలి
+సవి
+ససి
+
+______________________________
+
+Word: పద
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (16):
+కద
+గద
+మద
+సద
+పక
+పగ
+పచ
+పజ
+పట
+పణ
+పన
+పయ
+పర
+పల
+పస
+పళ
+
+______________________________
+
+Word: కళ
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (20):
+దళ
+నళ
+పళ
+కక
+కచ
+కట
+కఠ
+కడ
+కణ
+కత
+కథ
+కద
+కధ
+కన
+కర
+కల
+కవ
+కశ
+కష
+కస
+
+______________________________
+
+Word: కల
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (31):
+ఖల
+గల
+చల
+జల
+తల
+నల
+పల
+ఫల
+బల
+మల
+రల
+వల
+శల
+సల
+కక
+కచ
+కట
+కఠ
+కడ
+కణ
+కత
+కథ
+కద
+కధ
+కన
+కర
+కవ
+కశ
+కష
+కస
+కళ
+
+______________________________
+
+Word: సమ
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (13):
+చమ
+జమ
+బమ
+భమ
+యమ
+రమ
+సత
+సద
+సభ
+సర
+సల
+సవ
+సహ
+
+______________________________
+
+Category: CVV.CV
+Word: నేను
+Orthographic Neighbors (1):
+నాను
+
+Phonological Neighbors (9):
+చేను
+పేను
+మేను
+రేను
+నేటు
+నేడు
+నేబు
+నేము
+నేయు
+
+______________________________
+
+Word: కాదు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (19):
+గాదు
+నాదు
+పాదు
+బాదు
+రాదు
+లాదు
+వాదు
+సాదు
+కాకు
+కాచు
+కాటు
+కాడు
+కాను
+కాపు
+కాయు
+కారు
+కాలు
+కావు
+కాసు
+
+______________________________
+
+Word: లేక
+Orthographic Neighbors (3):
+లిక
+లెక
+లోక
+
+Phonological Neighbors (9):
+కేక
+చేక
+పేక
+మేక
+రేక
+లేఖ
+లేట
+లేమ
+లేవ
+
+______________________________
+
+Word: మూడు
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (9):
+కూడు
+గూడు
+చూడు
+పూడు
+సూడు
+మూను
+మూపు
+మూయు
+మూరు
+
+______________________________
+
+Word: మీరు
+Orthographic Neighbors (3):
+మారు
+మేరు
+మోరు
+
+Phonological Neighbors (11):
+కీరు
+గీరు
+చీరు
+జీరు
+తీరు
+నీరు
+పీరు
+బీరు
+వీరు
+మీటు
+మీను
+
+______________________________
+
+Word: పేజీ
+Orthographic Neighbors (2):
+పెజీ
+పేజి
+
+Phonological Neighbors (3):
+తేజీ
+పేటీ
+పేణీ
+
+______________________________
+
+Word: నాకు
+Orthographic Neighbors (2):
+నీకు
+నౌకు
+
+Phonological Neighbors (21):
+కాకు
+చాకు
+టాకు
+తాకు
+పాకు
+బాకు
+మాకు
+యాకు
+లాకు
+వాకు
+సాకు
+నాఖు
+నాగు
+నాచు
+నాటు
+నాడు
+నాణు
+నాదు
+నాను
+నాము
+నావు
+
+______________________________
+
+Word: కూడా
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (2):
+చూడా
+కూజా
+
+______________________________
+
+Word: కానీ
+Orthographic Neighbors (1):
+కాని
+
+Phonological Neighbors (2):
+కాపీ
+కాశీ
+
+______________________________
+
+Word: బాగా
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (10):
+జాగా
+నాగా
+పాగా
+బాకా
+బాజా
+బాణా
+బాధా
+బాబా
+బారా
+బాలా
+
+______________________________
+
+Word: చేసి
+Orthographic Neighbors (1):
+చేసె
+
+Phonological Neighbors (8):
+జేసి
+బేసి
+చేటి
+చేతి
+చేది
+చేయి
+చేరి
+చేవి
+
+______________________________
+
+Word: పేరు
+Orthographic Neighbors (4):
+పారు
+పీరు
+పెరు
+పోరు
+
+Phonological Neighbors (13):
+కేరు
+చేరు
+తేరు
+మేరు
+లేరు
+వేరు
+సేరు
+పేగు
+పేటు
+పేను
+పేము
+పేలు
+పేవు
+
+______________________________
+
+Word: చాలా
+Orthographic Neighbors (1):
+చోలా
+
+Phonological Neighbors (4):
+జాలా
+బాలా
+శాలా
+సాలా
+
+______________________________
+
+Word: మాట
+Orthographic Neighbors (3):
+మీట
+మేట
+మోట
+
+Phonological Neighbors (13):
+ఘాట
+నాట
+పాట
+బాట
+వాట
+సాట
+మాడ
+మాత
+మాద
+మాన
+మామ
+మాయ
+మాల
+
+______________________________
+
+Word: వేరు
+Orthographic Neighbors (2):
+వారు
+వీరు
+
+Phonological Neighbors (17):
+కేరు
+చేరు
+తేరు
+పేరు
+మేరు
+లేరు
+సేరు
+వేగు
+వేచు
+వేటు
+వేణు
+వేదు
+వేపు
+వేము
+వేయు
+వేలు
+వేవు
+
+______________________________
+
+Word: మీకు
+Orthographic Neighbors (3):
+మాకు
+మేకు
+మోకు
+
+Phonological Neighbors (9):
+గీకు
+చీకు
+టీకు
+డీకు
+దీకు
+నీకు
+వీకు
+మీటు
+మీను
+
+______________________________
+
+Word: వాడు
+Orthographic Neighbors (2):
+విడు
+వీడు
+
+Phonological Neighbors (21):
+కాడు
+గాడు
+జాడు
+తాడు
+నాడు
+పాడు
+బాడు
+మాడు
+యాడు
+రాడు
+లాడు
+వాకు
+వాజు
+వాటు
+వాదు
+వాను
+వాపు
+వాము
+వాయు
+వారు
+వాలు
+
+______________________________
+
+Word: చూసి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (4):
+బూసి
+చూచి
+చూరి
+చూలి
+
+______________________________
+
+Word: గాలి
+Orthographic Neighbors (3):
+గిలి
+గేలి
+గోలి
+
+Phonological Neighbors (13):
+జాలి
+తాలి
+దాలి
+నాలి
+మాలి
+లాలి
+వాలి
+శాలి
+గాడి
+గాణి
+గాతి
+గాని
+గాసి
+
+______________________________
+
+Word: నీకు
+Orthographic Neighbors (2):
+నాకు
+నౌకు
+
+Phonological Neighbors (11):
+గీకు
+చీకు
+టీకు
+డీకు
+దీకు
+వీకు
+నీచు
+నీటు
+నీరు
+నీలు
+నీవు
+
+______________________________
+
+Word: లేవు
+Orthographic Neighbors (1):
+లావు
+
+Phonological Neighbors (14):
+కేవు
+చేవు
+టేవు
+దేవు
+పేవు
+మేవు
+రేవు
+వేవు
+లేచు
+లేటు
+లేదు
+లేపు
+లేరు
+లేసు
+
+______________________________
+
+Word: రాజు
+Orthographic Neighbors (1):
+రోజు
+
+Phonological Neighbors (12):
+తాజు
+బాజు
+వాజు
+రాచు
+రాటు
+రాడు
+రాదు
+రాపు
+రాయు
+రాలు
+రావు
+రాహు
+
+______________________________
+
+Word: వాడి
+Orthographic Neighbors (2):
+విడి
+వేడి
+
+Phonological Neighbors (20):
+గాడి
+తాడి
+దాడి
+నాడి
+పాడి
+మాడి
+లాడి
+వాజి
+వాటి
+వాణి
+వాది
+వాని
+వాపి
+వామి
+వాయి
+వారి
+వాలి
+వావి
+వాసి
+వాళి
+
+______________________________
+
+Word: మూల
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (17):
+కూల
+తూల
+దూల
+నూల
+బూల
+శూల
+సూల
+మూక
+మూగ
+మూట
+మూఢ
+మూత
+మూన
+మూర
+మూవ
+మూష
+మూస
+
+______________________________
+
+Word: వేల
+Orthographic Neighbors (2):
+వాల
+వెల
+
+Phonological Neighbors (18):
+ఖేల
+చేల
+జేల
+నేల
+ఫేల
+బేల
+భేల
+సేల
+హేల
+వేగ
+వేట
+వేత
+వేద
+వేధ
+వేప
+వేశ
+వేష
+వేళ
+
+______________________________
+
+Category: C1C2V.CV
+Word: ప్రతి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (2):
+ప్రధి
+ప్రహి
+
+______________________________
+
+Word: క్రింది
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: శ్రమ
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (5):
+క్రమ
+ప్రమ
+బ్రమ
+భ్రమ
+శ్రవ
+
+______________________________
+
+Word: దృష్టి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (7):
+కృష్టి
+గృష్టి
+ఘృష్టి
+పృష్టి
+భృష్టి
+వృష్టి
+సృష్టి
+
+______________________________
+
+Word: ప్రేమ
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (1):
+ప్రేర
+
+______________________________
+
+Word: వ్యాధి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (1):
+వ్యాపి
+
+______________________________
+
+Word: ప్రశ్న
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (1):
+ప్రన్న
+
+______________________________
+
+Word: క్రమం
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: న్యాయం
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: క్రొత్త
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: స్థితి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: వృద్ధి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: ద్వారా
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: జ్ఞానం
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: వ్యాప్తి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: వ్యక్తి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: స్వయం
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: స్పష్టం
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: ప్రభ
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (5):
+ప్రజ
+ప్రథ
+ప్రప
+ప్రమ
+ప్రహ
+
+______________________________
+
+Word: త్యాగం
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: ప్రాయం
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: గ్రహం
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: ప్రాప్తి
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (1):
+ప్రాస్తి
+
+______________________________
+
+Word: ప్రాంతం
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (0):
+
+
+______________________________
+
+Word: వ్రాత
+Orthographic Neighbors (0):
+
+
+Phonological Neighbors (3):
+త్రాత
+ప్రాత
+భ్రాత
+
+______________________________
+
