@@ -1,0 +1,22 @@
+BEGIN
+    INPUT word
+    
+    // Step 1: Analyze the word
+    syllable_structure = determine_syllable_structure(word)
+    syllable_types = split_into_syllable_types(syllable_structure)
+    neighbors_list = []
+
+    // Step 2: Process each syllable
+    FOR each syllable in syllable_structure:
+        syllable_list_copy = copy(syllable_structure)
+        syllable_list_copy[current_syllable] = "_"
+
+        // Step 3: Find matching words
+        mask = join(syllable_list_copy)
+        matching_words = find_words_in_dictionary(mask)
+        neighbors_list.add_all(matching_words)
+
+    // Step 4: Remove duplicates and return results
+    neighbors_list = remove_duplicates(neighbors_list)
+    RETURN neighbors_list
+END
